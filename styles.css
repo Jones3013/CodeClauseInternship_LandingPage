@@ -1,0 +1,115 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Aleo', serif;
+    font-family: 'Playfair Display', serif;
+    padding: 30px;
+}
+
+li{
+    display: inline;
+    padding: 30px;
+    position: relative;
+    left: 35%;
+}
+
+li:hover{
+    color:#008CBA;
+
+}
+
+ul{
+    list-style: none;
+}
+
+.btn{
+    position: relative;
+    display: inline;
+    left: 55%;
+    background-color: #008CBA;
+    border: 2px solid black;
+    padding: 10px;
+    color: white;
+    font-weight: bolder;
+}
+
+.btn:hover{
+    background-color: darkblue;
+    color: white;
+}
+
+a{
+    color: #008CBA;
+}
+
+img{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+
+}
+
+.head{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+.main_img{
+    position: relative;
+    left: 65%;
+    height: 400px;
+    width: 400px;
+    bottom: 100px;
+}
+
+/* Buttons */
+
+.about-btn{
+        color: #fff;
+        padding: 10px;
+        text-decoration: none;
+        border-radius: 5px;
+        display: inline-block;
+        margin-top: 15px;
+}
+
+.download-btn{
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.contact-btn{
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.about-btn:hover{
+    color: #008CBA;
+}
+
+.download-btn:hover{
+    color: #008CBA;
+}
+
+.contact-btn:hover{
+    color: #008CBA;
+}
+
+
+
+
+
+
